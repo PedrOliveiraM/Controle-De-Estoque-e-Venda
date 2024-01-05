@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagens/adicionar.png</file>
+        <file>imagens/editar.png</file>
+        <file>imagens/excluir.png</file>
+        <file>imagens/pesquisar.png</file>
+    </qresource>
+</RCC>
